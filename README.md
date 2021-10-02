@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://cdn.discordapp.com/attachments/884404223314366499/884794578287349830/simply_logo.png">
+  <img width="250" src="https://cdn.discordapp.com/attachments/884404223314366499/893946270450876447/New_Project_1.png">
 </p>
 <h1 align="center"> Rayd </h1>
 <p align="center">
