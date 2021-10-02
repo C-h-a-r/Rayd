@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "chalk": "^4.1.2"
-  }
+  },
+  "name": "chars-rayd",
+  "description": "A Package To Make Discord Raid Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-h-a-r/Rayd.git"
+  },
+  "keywords": [
+    "raid",
+    "discord",
+    "bot"
+  ],
+  "author": "char_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-h-a-r/Rayd/issues"
+  },
+  "homepage": "https://github.com/C-h-a-r/Rayd#readme"
 }
