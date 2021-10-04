@@ -36,6 +36,23 @@ async function Raid(client, options = []) {
                 }
 
 
+                if (o.massChannels) {
+                var cont = "@everyone"
+            if (o.customID) cont = `<@${o.customID}>`
+
+if (message.content === cont) {
+if (o.massChannel) {
+    message.guild.channels.create(`test`, {
+        type : 'GUILD_TEXT'
+      }).then(async channel=> {
+        channel.send(`${cont}`)
+      })
+    } else return;
+    }
+
+} else {
+    return console.log("No")
+}
 
                 
  })

@@ -30,13 +30,15 @@ const client = new Discord.Client({
 const Raid = require('chars-rayd');
 
 Raid(client, {
-    commandOn: false/true,
     deleteCommand: false/true,
     command: "Command Name",
     everyonePing: false/true,
     customID: "User ID",
-    autoSpamPing: false/true
+    autoSpamPing: false/true,
+    massChannel: flase/true
 })
+
 
 client.login("Bot Token")
 ```
+
