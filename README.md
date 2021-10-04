@@ -35,7 +35,7 @@ Raid(client, {
     everyonePing: false/true,
     customID: "User ID",
     autoSpamPing: false/true,
-    massChannel: flase/true
+    massChannel: false/true
 })
 
 
